@@ -1,0 +1,4 @@
+﻿  lab2.cpp
+C:\Users\Marija\source\repos\OpenGLProject\OpenGLProject\lab2.cpp(280,70): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLProject.vcxproj -> C:\Users\Marija\source\repos\OpenGLProject\x64\Debug\OpenGLProject.exe
