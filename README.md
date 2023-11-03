@@ -1,2 +1,2 @@
 # Computer-Graphics
- Računalna Grafika (250)
+Lab works and semester project for course Computer Graphics
