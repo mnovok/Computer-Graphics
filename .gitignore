@@ -32,5 +32,5 @@
 *.app
 
 # Additional
-x64/
-.vs/OpenGLProject/v16/
+/x64
+/.vs/OpenGLProject/v16
