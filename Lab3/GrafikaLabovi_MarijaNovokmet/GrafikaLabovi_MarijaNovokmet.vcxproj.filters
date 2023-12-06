@@ -1200,6 +1200,7 @@
     <ClInclude Include="src\vendor\stb_image\stb_image.h">
       <Filter>src\vendor\stb_image</Filter>
     </ClInclude>
+    <ClInclude Include="src\Camera\Camera.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Model\Model.cpp">
@@ -1229,6 +1230,8 @@
     <ClCompile Include="src\vendor\stb_image\stb_image.cpp">
       <Filter>src\vendor\stb_image</Filter>
     </ClCompile>
+    <ClCompile Include="src\lab4.cpp" />
+    <ClCompile Include="src\Shader\shader_s.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="res\shaders\fShader.glsl">
@@ -1237,5 +1240,9 @@
     <None Include="res\shaders\vShader.glsl">
       <Filter>res\shaders</Filter>
     </None>
+    <None Include="src\transformVs.glsl" />
+    <None Include="src\transformFs.glsl" />
+    <None Include="src\coordinateVs.glsl" />
+    <None Include="src\coordinateFs.glsl" />
   </ItemGroup>
 </Project>

@@ -17,6 +17,7 @@ public:
 	void SwapAndPoll() const;
 	void CloseWindow() const;
 	void ProcessInput() const;
+	GLFWwindow* Window::getGLFWWindow() const;
 
 	inline int isClosed() const { return glfwWindowShouldClose(m_Window); }
 
