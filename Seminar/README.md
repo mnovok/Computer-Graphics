@@ -5,4 +5,5 @@ Made using Pencil2D and tablet Wacom Intuos S
 https://github.com/mnovok/Computer-Graphics/assets/92404788/e144b854-fef8-4c13-9492-224860f416d5
 
 ### Animation 2: A Girl Walking
-![A Girl Walking](https://github.com/mnovok/Computer-Graphics/assets/92404788/44e5e565-c6cc-4275-89a8-532b3915d65f)
+
+![updatedGirlWalking](https://github.com/mnovok/Computer-Graphics/assets/92404788/4d3dec7a-29f3-4ebf-96bd-c271f398df06)
